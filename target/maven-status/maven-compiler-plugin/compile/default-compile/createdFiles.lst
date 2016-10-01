@@ -1,0 +1,11 @@
+com\miracle\dao\TurnipDAOService.class
+com\miracle\rest\client\ServiceClient.class
+com\miracle\exception\TurnipException.class
+com\miracle\service\TurnipServiceImpl.class
+com\miracle\restservice\TurnipRestService.class
+com\miracle\bean\TurnipBean.class
+com\miracle\dao\DBConnection.class
+com\miracle\service\ITurnipService.class
+com\miracle\dao\DBTest.class
+com\miracle\dao\TurnipDAOService2.class
+com\miracle\util\Constants.class
