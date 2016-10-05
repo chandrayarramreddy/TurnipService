@@ -4,11 +4,12 @@ public class Constants {
 	//172.17.16.151
 	//public static final String JDBC_URL = "jdbc:mysql://192.168.5.10:3306/sample";
    //  public static final String JDBC_URL = "jdbc:mysql://192.168.5.10:3306/sample";
-   public static final String JDBC_URL = "jdbc:mysql://192.168.5.10:3306/sample";
+   public static final String JDBC_URL = "jdbc:mysql://172.17.13.50:3306/mysql";
 	 public static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
 //	public static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
 	public static final String USER_NAME = "root";
-	public static final String PASSWORD = "ilikerandompasswords";
+	//public static final String PASSWORD = "ilikerandompasswords";
+	public static final String PASSWORD = "password";
 
 	// Data base colomns
 	public static final String VENDOR_TIER_ID = "vendor_tier_id";
