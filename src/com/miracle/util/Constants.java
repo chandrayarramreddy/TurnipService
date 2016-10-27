@@ -8,8 +8,8 @@ public class Constants {
 	 public static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
 //	public static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
 	public static final String USER_NAME = "root";
-	//public static final String PASSWORD = "ilikerandompasswords";
-	public static final String PASSWORD = "password";
+	public static final String PASSWORD = "ilikerandompasswords";
+	//public static final String PASSWORD = "password";
 
 	// Data base colomns
 	public static final String VENDOR_TIER_ID = "vendor_tier_id";
